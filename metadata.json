@@ -1,0 +1,6 @@
+{
+  "name": "Genesis Capital Institute",
+  "description": "Organisme de formation professionnelle au trading institutionnel : Pure Price Action, Mécanique CFD & Futures, Killzones, Smart Money Concepts, Gestion du Risque, Psychologie et Prop Firms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
